@@ -1,4 +1,4 @@
-# sql_retail_sales_analysis_project
+# SQL_Retail_Sales_Analysis_Project
 
 Database: SQL_Project_RetailSalesAnalysis
 (PostgreSQL)
